@@ -16,3 +16,14 @@ The analytics script was updated so the match ID is saved off. The VCR script wa
 
 
 ![Sample Tampermonkey Order](Tampermonkey.png)
+
+
+**Important:** You must WAIT when the game is over for a few seconds until the "Match ID" is determined by Tagpro EU. Typically happens within a second unless you joined the game late. The Match ID shows up at the bottom of the stats at the end of the game. Once that match ID is determined, you can leave the game. If you leave beforehand, game will not be auto-uploaded.
+
+
+
+**Watching Replays**
+To watch the replay, install this script:
+* https://res.cloudinary.com/eggball/raw/upload/v1613958893/scripts/EggBall_Tagpro_Replay_Viewer_Match_Integration.user.js
+This script allows you to just enter the match ID within the VCR site - https://bash-tp.github.io/tagpro-vcr/ . It also allows you to Rewind and Record games/replays. Additionally with this script installed, you can jump to a replay directly from the Tagpro.eu website assuming that replay was auto-uploaded from the scripts above. Example:
+
