@@ -1,7 +1,7 @@
 # Instructions on how to Auto-Upload Tagpro Replays to Cloud.
 
 **Prerequisites:**
-You must download Tampermonkey add-on for your browser first.
+You must download Tampermonkey add-on for your browser first. It just takes ~2 minutes to setup both auto-upload and enhanced replay watching.
 
 
 **Scripts**
