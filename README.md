@@ -25,5 +25,7 @@ The analytics script was updated so the match ID is saved off. The VCR script wa
 **Watching Replays**
 To watch the replay, install this script:
 * https://res.cloudinary.com/eggball/raw/upload/v1613958893/scripts/EggBall_Tagpro_Replay_Viewer_Match_Integration.user.js
-This script allows you to just enter the match ID within the VCR site - https://bash-tp.github.io/tagpro-vcr/ . It also allows you to Rewind and Record games/replays. Additionally with this script installed, you can jump to a replay directly from the Tagpro.eu website assuming that replay was auto-uploaded from the scripts above. Example:
+This script allows you to just enter the match ID within the VCR site - https://bash-tp.github.io/tagpro-vcr/ . It also allows you to Rewind and Record games/replays. Additionally with this script installed, you can jump to a replay directly from the Tagpro.eu website assuming that replay was auto-uploaded from the scripts above. No having to download replay files anymore. You can also share the link to your replay you have uploaded with others as long as they have the Replay Viewer script! Example:
 
+
+![Sample Tagpro Analytics](TagproAnalytics.png)
